@@ -13,3 +13,7 @@ FEA.py
 - make get_nodes() work when given an array of nodes to find
 
 - implement fixities that at an angle (not just x and y)
+
+Repository
+- create custom meshing library or create wrapper functions to make existing mesh libraries compatible
+- create an example with other simple structures, compare to other FEA libraries
